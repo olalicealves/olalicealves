@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Meu nome é Alice Alves e sou graduada em Publicidade e Propaganda. 
+ Meu nome é Alice Alves e sou graduada em Publicidade e Propaganda pela PUC Minas.
  <p align="left"> 
  Atualmente trabalho com <strong> Marketing Digital e Data Analytics</strong><br>
 </p>
